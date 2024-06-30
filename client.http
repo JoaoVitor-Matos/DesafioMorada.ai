@@ -1,0 +1,9 @@
+@baseUrl = http://localhost:3333
+
+//Mudar o numero no valor para fazer os saques 
+POST {{baseUrl}}/api/saque
+Content-Type: application/json
+
+{
+  "valor": 100
+}
