@@ -5,5 +5,5 @@ POST {{baseUrl}}/api/saque
 Content-Type: application/json
 
 {
-  "valor": 100
+  "valor": 110
 }
